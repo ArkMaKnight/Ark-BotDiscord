@@ -1,7 +1,7 @@
 ![BANNERII](https://github.com/ArkMaKnight/Ark-BotDiscord/assets/136038822/bce4322b-3161-4da0-a99b-fd0b0bd7a14a)
 
 <p align="center">
-<img src="https://img.shields.io/badge/Lanzamiento-Septiembre-orange">
+<img src="https://img.shields.io/badge/Lanzamiento-Agosto-orange">
 </p>
 
 # ✨ ¿Cómo se te Ocurrió?
