@@ -2,6 +2,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Lanzamiento-Agosto-orange">
+<img alt="Discord" src="https://img.shields.io/discord/1114323591027245076">
 </p>
 
 # ✨ ¿Cómo se te Ocurrió?
