@@ -13,3 +13,5 @@ Establecido en el servidor de **Arkham Causas** para mi *Promo UCHEF*, posee los
 
 # ☠ Advertencia de CopyRight 
 Como ya he mencionado, es probable que muchos creadores originales del código en otros lenguajes de programación encuentren la documentación de mis comandos del Bot aquí, así que me atrevo a decir que el bot **NO está transcrito al 100% con los códigos originales** sino son una adaptación diferente ya que me he empeñado a agregarle **Embeds y Emojis** personalizados con variables y ejecuciones distintas. 
+
+## La DOCUMENTACIÓN DE MI BOT ES PRIVADA PERO HAGO ESTE ANUNCIO EN UN FUTURO LANZARLO ABIERTAMENTE
