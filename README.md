@@ -1,8 +1,11 @@
 ![BANNERII](https://github.com/ArkMaKnight/Ark-BotDiscord/assets/136038822/bce4322b-3161-4da0-a99b-fd0b0bd7a14a)
 
-<p align="center">
+<p align ="center">
 <img src="https://img.shields.io/badge/Lanzamiento-Agosto-orange">
-<img alt="Discord" src="https://img.shields.io/discord/1114323591027245076">
+<a href="https://discordapp.com/users/360993792486277120">
+    <img src="https://img.shields.io/badge/Conctáctame-Discord-7289DA?logo=discord" alt="Conctáctame en Discord">
+</a>
+
 </p>
 
 # ✨ ¿Cómo se te Ocurrió?
